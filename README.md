@@ -51,44 +51,20 @@ Passionate about creating exceptional user experiences with a solid foundation i
 
 ### 🛠️ Skills
 
-#### Runtime Environment
-- Node.js
+| Category                          | Skills                                                                                     |
+|-----------------------------------|--------------------------------------------------------------------------------------------|
+| **Runtime Environment**           | Node.js                                                                                    |
+| **Programming Languages**         | JavaScript, TypeScript, PHP, Node.js, Bash script                                          |
+| **JavaScript Libraries**          | React.js, React Native, Electron.js, Angular.js, Next.js, React PDF                        |
+| **JavaScript Standards**          | EcmaScript, Sonar Cube, Linters, Sonarlist, Commitizen (semantic version)                  |
+| **Real-time Services**            | SSE (Server-Side Events), Websocket, Socket.io                                             |
+| **State Management & Fetch**      | React Query, SWR, Context, Redux (Thunk, Saga, Toolkit), Recoil, Axios                     |
+| **Styling Tools**                 | SASS, LESS, Stylus, Emotion.js, Tailwind CSS                                               |
+| **Documentation Tools**           | Storybook                                                                                  |
+| **Build & Bundler Tools**         | Babel, Webpack, ESBuild, Vite                                                              |
+| **Databases**                     | SQL (MySQL, PostgreSQL), NoSQL, Prisma.js                                                  |
+| **PHP Libraries**                 | CodeIgniter, Yii                                                                           |
+| **Monorepo / Workspace Libraries**| Lerna, Nx, Microfrontend                                                                   |
+| **Deployment Tools**              | Docker, Jenkins, GitLab, GitHub                                                            |
+| **Design Tools**                  | UI & UX Design (Figma, Adobe XD), Graphic Design (Photoshop, Illustrator)                  |
 
-#### Programming Languages
-- JavaScript, TypeScript, PHP, Node.js, Bash script
-
-#### JavaScript Libraries
-- React.js, React Native, Electron.js, Angular.js, Next.js, React PDF
-
-#### JavaScript Standards (linter,commitizen) 
-- EcmaScript, Sonar Cube, Linters, Sonarlist, commitizen (sematic version)
-
-#### Real-time Services
-- SSE (Server-Side Events), Websocket, Socket.io
-
-#### State Management & Fetch Handlers
-- React Query, SWR, Context, Redux (Thunk, Saga, Toolkit), Recoil, Axios
-
-#### Styling Tools
-- SASS, LESS, Stylus, Emotion.js, Tailwind CSS
-
-#### Documentation Tools
-- Storybook
-
-#### Build & Bundler Tools
-- Babel, Webpack, ESBuild, Vite
-
-#### Databases
-- SQL (MySQL, PostgreSQL), NoSQL, Prisma.js
-
-#### PHP Libraries
-- CodeIgniter, Yii
-
-#### Monorepo / Workspace Libraries
-- Lerna, Nx, Microfrontend
-
-#### Deployment Tools
-- Docker, Jenkins, gitlab, githup
-
-#### Design Tools
-- UI & UX Design (Figma, Adobe XD), Graphic Design (Photoshop, Illustrator)
