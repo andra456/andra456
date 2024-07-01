@@ -4,12 +4,6 @@
 
 Passionate about creating exceptional user experiences with a solid foundation in web development, including JavaScript, TypeScript, and web architecture. I have a deep understanding of frontend development principles and best practices. Proficient in modern frontend frameworks (SPA, PWA) and libraries such as TypeScript, React.js, Next.js, and monorepo tools (NX/Lerna).
 
-### 📞 Contact Information
-
-- **Email**: ager102@gmail.com
-- **Nationality**: Indonesian
-
-
 ---
 
 ### 💼 Work Experience
@@ -54,27 +48,6 @@ Passionate about creating exceptional user experiences with a solid foundation i
 - Conducted debugging and maintenance.
 - Developed streaming services using HLS and DRM.
 
-#### Web Developer at Best TV International, Jakarta
-*July 2012 – November 2012*
-
-- Created and provided websites for OTT projects.
-
-#### Freelancer Web Developer at ASI (Indonesian Cement Association), Jakarta
-*February 2012 – August 2012*
-
-- Developed monolith application websites using CodeIgniter and MySQL.
-
-#### Freelancer Front End & Developer at BAPETEN, Jakarta
-*March 2012 – August 2012*
-
-- Developed and maintained APSN system using CodeIgniter and PHP5.
-
-#### Intern Database Admin at PRPN BATAN Serpong, Serpong, Tangerang
-*November 2010 – December 2011*
-
-- Developed database servers using Oracle and SQL server for PipeStress Analysis System.
-
----
 
 ### 🛠️ Skills
 
@@ -82,16 +55,16 @@ Passionate about creating exceptional user experiences with a solid foundation i
 - Node.js
 
 #### Programming Languages
-- JavaScript, TypeScript, PHP, Node.js
+- JavaScript, TypeScript, PHP, Node.js, Bash script
 
 #### JavaScript Libraries
 - React.js, React Native, Electron.js, Angular.js, Next.js, React PDF
 
-#### JavaScript Standards
-- EcmaScript
+#### JavaScript Standards (linter,commitizen) 
+- EcmaScript, Sonar Cube, Linters, Sonarlist, commitizen (sematic version)
 
 #### Real-time Services
-- SSE (Server-Side Events), Socket.io
+- SSE (Server-Side Events), Websocket, Socket.io
 
 #### State Management & Fetch Handlers
 - React Query, SWR, Context, Redux (Thunk, Saga, Toolkit), Recoil, Axios
@@ -115,7 +88,7 @@ Passionate about creating exceptional user experiences with a solid foundation i
 - Lerna, Nx, Microfrontend
 
 #### Deployment Tools
-- Docker, Jenkins
+- Docker, Jenkins, gitlab, githup
 
 #### Design Tools
 - UI & UX Design (Figma, Adobe XD), Graphic Design (Photoshop, Illustrator)
