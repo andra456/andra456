@@ -1,12 +1,12 @@
 
 
-## I'm Engineer
+## I'm a engineer explorer
 
 Passionate about creating exceptional user experiences with a solid foundation in web development, including JavaScript, TypeScript, and web architecture. I have a deep understanding of frontend development principles and best practices. Proficient in modern frontend frameworks (SPA, PWA) and libraries such as TypeScript, React.js, Next.js, and monorepo tools (NX/Lerna).
 
 ---
 
-### 🛠️ Skills
+### 🛠️ My Abilities
 
 | Category                          | Skills                                                                                     |
 |-----------------------------------|--------------------------------------------------------------------------------------------|
