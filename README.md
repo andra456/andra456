@@ -2,13 +2,17 @@
 
 ## I'm a engineer explorer
 
-Passionate about creating exceptional user experiences with a solid foundation in web development, including JavaScript, TypeScript, and web architecture. I have a deep understanding of frontend development principles and best practices. Proficient in modern frontend frameworks (SPA, PWA) and libraries such as TypeScript, React.js, Next.js, and monorepo tools (NX/Lerna).
+Once upon a time, in the vast realm of web development, there was a passionate adventurer who delighted in creating exceptional user experiences. Armed with a solid foundation in JavaScript, TypeScript, and the grand architecture of the web, our humble hero set forth on a quest.
+
+Through many trials and lessons learned, this brave soul gained a deep understanding of frontend development principles and best practices. With each challenge overcome, proficiency in modern frontend frameworks like SPA and PWA grew stronger. The adventurer became well-versed in powerful libraries such as TypeScript, React.js, and Next.js, and mastered monorepo tools like NX and Lerna.
+
+And so, with a heart full of enthusiasm and a mind brimming with knowledge, the journey continued, always striving to create the finest user experiences for all who ventured into the digital world.
 
 ---
 
-### 🛠️ My Abilities
+### 🛠️ My Powers 
 
-| Category                          | Skills                                                                                     |
+| Category                          | Abilities                                                                                     |
 |-----------------------------------|--------------------------------------------------------------------------------------------|
 | **Runtime Environment**           | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)       |
 | **Programming Languages**         | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) |
